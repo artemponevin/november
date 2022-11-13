@@ -4,3 +4,4 @@ from Tokio
 from Moscow
 from Kazakhstan
 from Nigeria
+from Sochi
