@@ -1,1 +1,1 @@
-My info
+config file for dhcp
